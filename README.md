@@ -34,7 +34,7 @@ Projenin backend iş mantığı ve güvenliği, modern test yaklaşımları kull
 - **Güvenlik Testleri:** JWT filtrelerinin ve Spring Security yapılandırmalarının doğru yetkilendirmeyi yapıp yapmadığı test sınıfları (`Test Classes`) ile otomatik olarak doğrulanmaktadır.
 - ---
 <img width="500" height="500" alt="girisyap" src="https://github.com/user-attachments/assets/5355e7a2-2091-4324-8a6f-5e5e43d92c84" />
-<img width="1785" height="837" alt="arama" src="https://github.com/user-attachments/assets/35275ca1-a9d9-4d94-8ba3-3c4c8fffd6b6" />
-<img width="1920" height="872" alt="iade" src="https://github.com/user-attachments/assets/e099f3e3-3257-480e-af39-e9f1cbaee15e" />
-<img width="1920" height="844" alt="odunc" src="https://github.com/user-attachments/assets/3e99255d-632a-42bf-a0c2-031bafbd4d2b" />
-<img width="846" height="691" alt="kayitol" src="https://github.com/user-attachments/assets/6cad2940-d466-441d-ac32-5ffc51bf564c" />
+<img width="1400" height="800" alt="arama" src="https://github.com/user-attachments/assets/35275ca1-a9d9-4d94-8ba3-3c4c8fffd6b6" />
+<img width="1500" height="800" alt="iade" src="https://github.com/user-attachments/assets/e099f3e3-3257-480e-af39-e9f1cbaee15e" />
+<img width="1500" height="800" alt="odunc" src="https://github.com/user-attachments/assets/3e99255d-632a-42bf-a0c2-031bafbd4d2b" />
+<img width="500" height="500" alt="kayitol" src="https://github.com/user-attachments/assets/6cad2940-d466-441d-ac32-5ffc51bf564c" />
